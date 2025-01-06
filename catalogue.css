@@ -1,0 +1,25 @@
+.catalogue-main{
+    margin: 100px 70px;
+}
+
+.catalogue-row{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    flex-wrap: wrap;
+   
+
+}
+
+.catalogue-item{
+    width:300px;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+    
+}
+
+.catalogue-item img{
+    width: 70%;
+    height: 200px;
+}
